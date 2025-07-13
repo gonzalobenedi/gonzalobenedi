@@ -34,8 +34,8 @@ I'm a Software Development Engineer at Plain Concepts in Zaragoza, Spain. Passio
 
 ## 🔗 Connect with Me  
 
-<a href="https://www.linkedin.com/in/dlopezcuadrado/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/dlopezcuadrado"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/gonzalo-nicolas-benedi-cuevas-5a06b95b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/gonzalobenedi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
 
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀  
